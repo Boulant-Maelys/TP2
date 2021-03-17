@@ -1,1 +1,4 @@
 BARTIER Nina et BOULANT Maëlys
+
+le fichier était commité dans la branche mon_fichier, c'est pourquoi on ne le voit plus quand on va dans la branche 
+master

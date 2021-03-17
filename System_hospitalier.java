@@ -35,12 +35,12 @@ public class System_hospitalier {
 	
 	private String analyserRequete(Requête requête) {
 		// Analyser la requête
-		return "requête analysée";
+		return "requête analysée"; //la requ�te est analys�e
 	}
 	
 	private String comparerDonnes() {
 		// Comparaison des données
-		return "Cluster trouvé";
+		return "Cluster trouvé"; //les donn�es sont compar�es
 	}
 
 }
